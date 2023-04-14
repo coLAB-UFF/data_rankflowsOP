@@ -8,6 +8,8 @@
 
 ### Que ce passe-t-il? Ce que les sujets d'actualité peuvent nous dire sur l'action politique orchestrée collectivement
 
+Este repositório apresenta as imagens e gráficos plotados a partir dos dados trabalhados no artigo "O que está acontecendo? O que os trending topics podem nos dizer a respeito de ações políticas coletivamente orquestradas". Os dados brutos estão disponíveis mediante consulta aos pesquisadores.
+
 
 **Quadro 1 – Análise de fluxos de ranqueamento** (Clique para ampliar)
 
