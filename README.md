@@ -27,4 +27,4 @@ Este repositório apresenta as imagens e gráficos plotados a partir dos dados t
 
 **Quadro 5 – Diagrama de dispersão Aos Fatos versus RBD com reta ajustada**
 
-![](lm1.png =250x250)
+![](lm1.png)
