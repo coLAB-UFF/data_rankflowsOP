@@ -1,5 +1,7 @@
 # data_rankflowsOP
 
+[![DOI](https://zenodo.org/badge/628087323.svg)](https://zenodo.org/badge/latestdoi/628087323)
+
 ### O que está acontecendo? O que os trending topics podem nos dizer a respeito de ações políticas coletivamente orquestradas
 
 ### What's happening? What trending topics can tell us about collectively orchestrated political action
