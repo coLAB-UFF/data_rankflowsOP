@@ -18,3 +18,11 @@
 *Rankflow dos trending topics de 10 e 11/06* (Clique para ampliar)
 
 ![](rankflow1.png)
+
+**Quadro 4 – Comparação de séries temporais de declarações de Bolsonaro e oscilações nos trending topics**
+
+![](timeseries1.png)
+
+**Quadro 5 – Diagrama de dispersão Aos Fatos versus RBD com reta ajustada**
+
+![](lm1.png)
